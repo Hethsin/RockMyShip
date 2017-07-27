@@ -1,2 +1,2 @@
 # RockMyShip
-LudumDare 38 GameJam submission
+Submission to the LudumDare 38 GameJam. Theme proposed was "Small World".
